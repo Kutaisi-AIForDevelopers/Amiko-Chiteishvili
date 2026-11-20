@@ -5,4 +5,4 @@ class Solution:
         if sorted (s) == sorted(t):
             return True
         else:
-            return false
+            return False
